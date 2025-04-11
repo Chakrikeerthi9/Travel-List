@@ -3,7 +3,7 @@
 A simple and interactive React app to help users efficiently plan their packing for trips. Add items, track what’s packed, filter by status or name, and stay organized on the go!
 
 ## 🚀 Live Demo
-[🔗 View it on Vercel]
+[🔗 View it on Vercel](https://travel-list-kohl-beta.vercel.app/)
 
 ---
 
