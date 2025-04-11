@@ -53,7 +53,7 @@ A simple and interactive React app to help users efficiently plan their packing 
 To run the project locally:
 
 ```bash
-git clone 
+git clone https://github.com/Chakrikeerthi9/Travel-List.git
 cd trip-packing-list
 npm install
 npm start
